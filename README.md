@@ -20,3 +20,6 @@ License
 
 This deck is released under the [CreativeCommon BY-NC-SA license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
 
+# Credits
+
+- The credits for the card style goes to the [Ultimate Geography](https://github.com/anki-geo/ultimate-geography) deck
